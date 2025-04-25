@@ -142,6 +142,9 @@ If years of experience = 11, Salary = 1,35,800.04$
 If years of experience = 21, Salary = 2,06,266.36$
 which represents the dependence of the variables.
 
+**Visualisation:**
+Some data visualisation tools that I have used for further understanding of my conclusions in the previous task are: Pie chart, Bar plot, Scatter plot, Box plot and a smooth scatter plot. 
+The plots were done on R and Excel
 
 ## Overall conclusion:
 
